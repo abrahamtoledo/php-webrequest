@@ -1,5 +1,6 @@
 # PHP WebRequest
 A simple library for making web requests with PHP. It can handle one or multiple requests in parallel.
+This library is a work in progress.
 
 ## Usage
 Include the file __WebRequest.php__ in your php file:
